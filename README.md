@@ -3,7 +3,6 @@
 具体实现了orders模块
 # App
 App由MyHeader组件实现路由，下方为渲染区域
-orders
 # orders
 orders由MyForm、MyOrders、MyTools组件构成
 - MyOrders orders模块的结构布局组件
